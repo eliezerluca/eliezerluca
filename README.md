@@ -1,65 +1,77 @@
 # Eliézer Lucas
 
-## Software Developer | APIs & Integrations | Laravel & PHP
+### Software Developer · APIs · Integrações · Arquitetura de Software
 
-Desenvolvedor de software com atuação em sistemas corporativos, APIs, integrações e automação de processos.
+Desenvolvedor de software focado em **APIs, integrações e arquitetura** — atualmente estruturando bases reutilizáveis em Flutter e evoluindo uma intranet com **50+ aplicações internas**.
 
-Atualmente trabalho no desenvolvimento e evolução de sistemas corporativos, atuando na modelagem de regras de negócio, desenvolvimento de APIs, integração entre sistemas e modernização de aplicações.
+Busco entender como decisões técnicas impactam a **manutenção e evolução de sistemas**, indo além de aplicar padrões: quero saber **quais problemas cada decisão resolve, quando faz sentido e quais trade-offs introduz**.
 
-Minha experiência também inclui automação, análise de dados e uma visão orientada ao negócio, buscando desenvolver soluções que sejam tecnicamente sustentáveis e contribuam para a evolução dos processos.
+---
 
-Sou formado em Engenharia de Software e atualmente curso pós-graduação em Arquitetura de Software.
+## Stack
 
-### Arquitetura de Software
+<div align="center">
 
-Tenho direcionado parte importante da minha evolução profissional para arquitetura e engenharia de software, estudando e aplicando conceitos como:
+[![Minhas tecnologias](https://skillicons.dev/icons?i=php,laravel,dart,flutter,mysql,postgres,docker,git,githubactions)](https://skillicons.dev)
 
-- Clean Architecture
-- SOLID
-- Clean Code
-- Domain-Driven Design
-- Dependency Inversion
-- Testabilidade
-- Feature-first
+</div>
 
-Em junho de 2026, comecei a aprofundar esses estudos de forma mais estruturada e passei a documentar minhas decisões, experimentos e aprendizados.
+<br>
 
-Um dos principais estudos surgiu a partir da necessidade de pensar uma arquitetura mais sustentável para projetos Flutter. A partir disso, desenvolvi uma proposta própria de estrutura, explorando organização por features, separação de responsabilidades, gerenciamento de estado, persistência local e estratégias Offline-first.
+**Backend:** PHP · Laravel · REST APIs
 
-Atualmente, tenho a oportunidade de propor e implementar essa abordagem em um projeto Flutter na empresa onde trabalho.
+**Mobile:** Dart · Flutter
 
-Essa experiência tem sido uma forma de conectar estudo e prática, avaliando as decisões arquiteturais não apenas pela teoria, mas também pelos problemas e trade-offs encontrados durante a implementação.
+**Databases:** Oracle · PL/SQL · MySQL · Postgres
 
-## Tecnologias
+**DevOps:** Docker · Git · GitHub Actions · CI/CD
 
-- Backend: PHP, Laravel
-- Mobile: Dart, Flutter
-- Databases: MySQL, Oracle / PL/SQL
-- Infraestrutura/Ferramentas: Docker, Git, GitHub Actions
+---
 
-## Projetos e estudos
+## Experiência
 
-Este perfil reúne projetos pessoais, experimentos e materiais relacionados a desenvolvimento e arquitetura de software.
+* Automação de produção de catálogos com **20.000+ itens**, reduzindo o prazo de **~2 meses para 3 semanas**
+* Desenvolvimento e manutenção de **APIs REST** e integrações entre sistemas corporativos
+* Modelagem de regras de negócio e modernização de aplicações legadas
+* Automação de processos em ambientes corporativos de grande escala
 
-Os principais temas abordados são:
+---
 
-- Arquitetura de aplicações
-- Flutter e Dart
-- APIs e integrações
-- Clean Architecture
-- Engenharia de software
-- Persistência local
-- Sistemas Offline-first
-- Sincronização de dados
-- Automação
+## Foco Atual
 
-Parte desses estudos é documentada em materiais técnicos que acompanham a evolução dos projetos.
+Trabalho na evolução de uma intranet com **mais de 50 aplicações internas**, além de aplicações e portais utilizados por diferentes perfis de usuários.
+
+Meu foco tem se voltado para **Arquitetura e Engenharia de Software**, especialmente na estruturação de uma base em **Clean Architecture para aplicações Flutter** — definindo responsabilidades, padrões e infraestrutura reutilizável para construir novas aplicações de forma organizada e consistente.
+
+Conceitos que venho explorando e aplicando:
+
+* Clean Architecture · SOLID · Dependency Inversion
+* Separation of Concerns · Feature-first · BLoC
+* Dependency Injection · Local Persistence
+* Offline-first · Data Synchronization · Testability
+
+Conecto **estudo, experimentação e aplicação prática** com problemas reais de desenvolvimento, buscando soluções que possam ser **mantidas, evoluídas e reutilizadas por outros desenvolvedores**.
+
+---
+
+## GitHub
+
+Este perfil funciona como um **laboratório de engenharia de software** — registro minha evolução técnica, experimento ideias e transformo conceitos em implementação.
+
+A maior parte do meu trabalho atual está em repositórios privados; aqui documento estudos, experimentos e decisões técnicas que posso compartilhar publicamente.
+
+> **Problema → experimentação → decisão → aprendizado**
+
+---
 
 ## Formação
 
-- Engenharia de Software (2022 - 2025)
-- Pós-graduação em Arquitetura de Software (2026 – presente)
+**Engenharia de Software** — 2022 — 2025
 
-## Contatos
+**Pós-graduação em Arquitetura de Software** — 2026 · em andamento
 
-LinkedIn: [eliezerluca](https://www.linkedin.com/in/eliezerluca)
+---
+
+> Building software is not only about writing code.
+>
+> It's about understanding problems, making decisions, and building systems that can evolve.
