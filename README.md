@@ -2,9 +2,9 @@
 
 ### Software Developer · APIs · Integrações · Arquitetura de Software
 
-Desenvolvedor de software focado em **APIs, integrações e arquitetura** — atualmente estruturando bases reutilizáveis em Flutter e evoluindo uma intranet com **50+ aplicações internas**.
+Desenvolvedor de software com experiência em **APIs, integrações e sistemas corporativos**. Atualmente, meu foco está em **arquitetura e engenharia de software** — transformar decisões técnicas em bases que facilitem a manutenção, evolução e criação de novas aplicações.
 
-Busco entender como decisões técnicas impactam a **manutenção e evolução de sistemas**, indo além de aplicar padrões: quero saber **quais problemas cada decisão resolve, quando faz sentido e quais trade-offs introduz**.
+Trabalho na evolução de uma intranet com **50+ aplicações internas**. Indo além de aplicar padrões: quero entender **quais problemas cada decisão resolve, quando faz sentido e quais trade-offs introduz**.
 
 ---
 
@@ -12,7 +12,7 @@ Busco entender como decisões técnicas impactam a **manutenção e evolução d
 
 <div align="center">
 
-[![Minhas tecnologias](https://skillicons.dev/icons?i=php,laravel,dart,flutter,mysql,postgres,docker,git,githubactions)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=php,laravel,dart,flutter,mysql,postgres,docker,git,githubactions)](https://skillicons.dev)
 
 </div>
 
@@ -39,9 +39,7 @@ Busco entender como decisões técnicas impactam a **manutenção e evolução d
 
 ## Foco Atual
 
-Trabalho na evolução de uma intranet com **mais de 50 aplicações internas**, além de aplicações e portais utilizados por diferentes perfis de usuários.
-
-Meu foco tem se voltado para **Arquitetura e Engenharia de Software**, especialmente na estruturação de uma base em **Clean Architecture para aplicações Flutter** — definindo responsabilidades, padrões e infraestrutura reutilizável para construir novas aplicações de forma organizada e consistente.
+Meu foco tem se voltado para **Arquitetura e Engenharia de Software**, especialmente na estruturação de uma **base interna em Flutter** (Clean Architecture) — definindo responsabilidades, padrões e infraestrutura reutilizável para construir novas aplicações de forma **organizada e consistente**.
 
 Conceitos que venho explorando e aplicando:
 
@@ -58,7 +56,7 @@ Conecto **estudo, experimentação e aplicação prática** com problemas reais 
 
 Este perfil funciona como um **laboratório de engenharia de software** — registro minha evolução técnica, experimento ideias e transformo conceitos em implementação.
 
-A maior parte do meu trabalho atual está em repositórios privados; aqui documento estudos, experimentos e decisões técnicas que posso compartilhar publicamente.
+A maior parte do meu trabalho atual está em repositórios privados; aqui documento estudos, experimentos e decisões técnicas.
 
 > **Problema → experimentação → decisão → aprendizado**
 
@@ -72,6 +70,6 @@ A maior parte do meu trabalho atual está em repositórios privados; aqui docume
 
 ---
 
-> Building software is not only about writing code.
+> Construir software não é apenas escrever código.
 >
-> It's about understanding problems, making decisions, and building systems that can evolve.
+> É entender problemas, tomar decisões e construir sistemas que possam evoluir.
