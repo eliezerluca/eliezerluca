@@ -61,7 +61,7 @@ Conecto **estudo, experimentação e aplicação prática** com problemas reais 
 
 Este perfil funciona como um **laboratório de engenharia de software** — registro minha evolução técnica, experimento ideias e transformo conceitos em implementação.
 
-Em projetos pessoais (Node, React), mantenho uma **VPS** com Docker e **Traefik** — onde rodo SonarQube, documento APIs com Swagger e outros serviços de estudo.
+Em projetos pessoais com Node e React, mantenho uma **VPS com Docker e Traefik**, utilizando-a para hospedar aplicações, executar **SonarQube**, documentar APIs com **Swagger** e experimentar práticas de infraestrutura e engenharia de software.
 
 A maior parte do meu trabalho atual está em repositórios privados; aqui documento estudos, experimentos e decisões técnicas.
 
