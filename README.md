@@ -2,9 +2,9 @@
 
 ### Software Developer · APIs · Integrações · Arquitetura de Software
 
-Desenvolvedor de software com experiência em **APIs, integrações e sistemas corporativos**. Atualmente, meu foco está em **arquitetura e engenharia de software** — transformar decisões técnicas em bases que facilitem a manutenção, evolução e criação de novas aplicações.
+Desenvolvedor de software com experiência em **APIs, integrações e sistemas corporativos**. Atualmente, meu foco está em **arquitetura e engenharia de software** — transformar decisões técnicas em **estruturas reutilizáveis** que facilitem a manutenção, evolução e criação de novas aplicações.
 
-Trabalho na evolução de uma intranet com **50+ aplicações internas**. Indo além de aplicar padrões: quero entender **quais problemas cada decisão resolve, quando faz sentido e quais trade-offs introduz**.
+Trabalho na evolução de uma intranet com **50+ aplicações internas** e, indo além de aplicar padrões, busco entender **quais problemas cada decisão resolve, quando faz sentido e quais trade-offs introduz**.
 
 ---
 
@@ -43,10 +43,13 @@ Meu foco tem se voltado para **Arquitetura e Engenharia de Software**, especialm
 
 Conceitos que venho explorando e aplicando:
 
-* Clean Architecture · SOLID · Dependency Inversion
-* Separation of Concerns · Feature-first · BLoC
-* Dependency Injection · Local Persistence
-* Offline-first · Data Synchronization · Testability
+**Arquitetura:** Clean Architecture · SOLID · Dependency Inversion · Separation of Concerns
+
+**Aplicação:** Feature-first · BLoC · Dependency Injection
+
+**Resiliência:** Local Persistence · Offline-first · Data Synchronization
+
+**Qualidade:** Testability
 
 Conecto **estudo, experimentação e aplicação prática** com problemas reais de desenvolvimento, buscando soluções que possam ser **mantidas, evoluídas e reutilizadas por outros desenvolvedores**.
 
@@ -72,4 +75,4 @@ A maior parte do meu trabalho atual está em repositórios privados; aqui docume
 
 > Construir software não é apenas escrever código.
 >
-> É entender problemas, tomar decisões e construir sistemas que possam evoluir.
+> É entender problemas, tomar decisões conscientes e aceitar os trade-offs que tornam um sistema sustentável ao longo do tempo.
