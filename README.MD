@@ -69,4 +69,4 @@ Parte desses estudos é documentada em materiais técnicos que acompanham a evol
 
 ## Contato
 
-LinkedIn: "eliezerluca" ()
+LinkedIn: [eliezerluca](https://www.linkedin.com/in/eliezerluca)
