@@ -4,7 +4,7 @@
 
 Desenvolvedor de software com experiência em **APIs, integrações e sistemas corporativos**. Atualmente, meu foco está em **arquitetura e engenharia de software** — transformar decisões técnicas em **estruturas reutilizáveis** que facilitem a manutenção, evolução e criação de novas aplicações.
 
-Trabalho na evolução de uma intranet com **50+ aplicações internas** e, indo além de aplicar padrões, busco entender **quais problemas cada decisão resolve, quando faz sentido e quais trade-offs introduz**.
+Trabalho na evolução de uma intranet com 50+ aplicações internas. Mais do que aplicar padrões, busco entender quais problemas cada decisão resolve, quando faz sentido e quais trade-offs introduz.
 
 ---
 
@@ -12,19 +12,21 @@ Trabalho na evolução de uma intranet com **50+ aplicações internas** e, indo
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=php,laravel,dart,flutter,mysql,postgres,docker,git,githubactions)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=php,laravel,dart,flutter,nodejs,react,mysql,postgres,docker,git,githubactions)](https://skillicons.dev)
 
 </div>
 
 <br>
 
-**Backend:** PHP · Laravel · REST APIs
+**Backend:** PHP · Laravel · REST APIs · Swagger
 
 **Mobile:** Dart · Flutter
 
+**Projetos pessoais:** Node · React · SonarQube
+
 **Databases:** Oracle · PL/SQL · MySQL · Postgres
 
-**DevOps:** Docker · Git · GitHub Actions · CI/CD
+**DevOps:** Docker · Traefik · Git · GitHub Actions · CI/CD
 
 ---
 
@@ -58,6 +60,8 @@ Conecto **estudo, experimentação e aplicação prática** com problemas reais 
 ## GitHub
 
 Este perfil funciona como um **laboratório de engenharia de software** — registro minha evolução técnica, experimento ideias e transformo conceitos em implementação.
+
+Em projetos pessoais (Node, React), mantenho uma **VPS** com Docker e **Traefik** — onde rodo SonarQube, documento APIs com Swagger e outros serviços de estudo.
 
 A maior parte do meu trabalho atual está em repositórios privados; aqui documento estudos, experimentos e decisões técnicas.
 
