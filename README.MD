@@ -67,6 +67,6 @@ Parte desses estudos é documentada em materiais técnicos que acompanham a evol
 - Engenharia de Software (2022 - 2025)
 - Pós-graduação em Arquitetura de Software (2026 – presente)
 
-## Contato
+## Contatos
 
 LinkedIn: [eliezerluca](https://www.linkedin.com/in/eliezerluca)
